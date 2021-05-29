@@ -1,0 +1,11 @@
+{
+  "name": "testing-logic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node testing.js",
+    "start": "node testB.js",
+    "boolean": "node testC.js"
+  }
+}
